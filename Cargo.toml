@@ -1,0 +1,13 @@
+[package]
+name = "nafsy"
+version = "0.0.1"
+authors = ["John Darryl Pelingo <johndarrylpelingo@gmail.com>"]
+edition = "2018"
+description = "🦀🦀🦀🦀🦀🦀🦀"
+documentation = "https://github.com/john-d-pelingo/mrust"
+homepage = "https://crates.io/crates/mrust"
+repository = "https://github.com/john-d-pelingo/mrust"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
