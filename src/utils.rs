@@ -6,7 +6,7 @@ pub mod fns {
     /// ```
     /// let five = 5;
     ///
-    /// assert_eq!(6, nafsy::plus_one(five));
+    /// assert_eq!(6, mrust::plus_one(five));
     /// ```
     pub fn plus_one(num: i32) -> i32 {
         num + 1
@@ -19,7 +19,7 @@ pub mod fns {
     /// ```
     /// let five = 5;
     ///
-    /// assert_eq!(4, nafsy::minus_one(five));
+    /// assert_eq!(4, mrust::minus_one(five));
     /// ```
     pub fn minus_one(num: i32) -> i32 {
         num - 1

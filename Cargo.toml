@@ -1,5 +1,5 @@
 [package]
-name = "mrusta"
+name = "mrust"
 version = "0.0.1"
 authors = ["John Darryl Pelingo <johndarrylpelingo@gmail.com>"]
 edition = "2018"
